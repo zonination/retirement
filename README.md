@@ -31,7 +31,7 @@ The plot above, however, is insufficient. It doesn't consider what you can live 
 
 If you were to ask me, "Zoni, what's more important: my desired income or desired budget?" I would reply with the fact that it's your **desired budget**, because it takes into account what you can live on now vs. after retirement.
 
-Since a vast majority of us are not going to save 100% of our income, and we'll likely want to call it quits after working from the ages of 20 to 65. So let's assume a max working time of 45 years, and a max savings rate of 60%, and replot. In addition to this, let's also mark an area on our plot to define what some experts recommend:
+A vast majority of us are not going to save 100% of our income, and we'll likely want to call it quits after working from the ages of 20 to 65. So let's assume a max working time of 45 years, and a max savings rate of 60%, and replot. In addition to this, let's also mark an area on our plot to define what some experts recommend:
 
 * Elizabeth Warren recommends saving 20% of your income in her [50-30-20 rule](https://www.gobankingrates.com/personal-finance/senator-elizabeth-warren-50-30-20-budget-rule-save-pay-off-debt/) (from *All Your Worth: The Ultimate Lifetime Money Plan*)
 * William Bernstein recommends saving 15% of your income in his 16-page pamphlet *[If You Can](https://www.etf.com/docs/IfYouCan.pdf)*
