@@ -48,7 +48,7 @@ ggplot(df,aes(save.r,years))+
   scale_fill_gradientn("Desired Income\nAfter Retirement",
                        colors = brewer.pal(9,"PiYG"),
                        limits=c(-4,4),
-                       breaks=c(-4:4),.
+                       breaks=c(-4:4),
                        labels=c(".06 x income",".13 x income",".25 x income",".5 x income","1 x income","2 x income","4 x income","8 x income", "16 x income"),
                        oob=scales::squish)+
   scale_x_continuous(breaks=seq(0,1,.1), labels=scales::percent, limits=c(0,1))+
@@ -88,7 +88,6 @@ ggplot(df,aes(save.r,years))+
        x="Savings rate, as % of income",
        y="Number of years saved",
        caption="created by /u/zonination for /r/personalfinance")+
-  # annotate("rect",xmin=.15,xmax=.20,ymin=35,ymax=40,alpha=.5,fill="black",color="darkgreen")+
   annotate("text", x=.5, y=37, label="4 x budget", size=3, angle=-35)+
   annotate("text", x=.5, y=26.5, label="2 x budget", size=3, angle=-30)+
   annotate("text", x=.5, y=17, label="1 x budget", size=3, angle=-25)+
