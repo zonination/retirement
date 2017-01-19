@@ -10,13 +10,13 @@ After reading Mr. Money Moustache's [The Shockingly Simple Math Behind Early Ret
 
 This visualization project operates on a set of assumptions that might differ from reality, but are there for the sake of simplicity:
 
-* Your portfolio return is constant 5% *(**Reality:** It will change from year to year depending on your mix of US stocks, bonds, international stocks, and cash; and market fluctuations)*
-* Your income never changes *(**Reality:** Your income will usually increase over time)*
-* You will have the same expenses in retirement *(**Reality:** Your expenses are usually lower in retirement)*
+* Your portfolio return is constant 5% *(Reality: It will change from year to year depending on your mix of US stocks, bonds, international stocks, and cash; and market fluctuations)*
+* Your income never changes *(Reality: Your income will usually increase over time)*
+* You will have the same expenses in retirement *(Reality: Your expenses are usually lower in retirement)*
 * You will never change your savings rate.
 * You will never withdraw the investments until retirement.
-* Taxes are not taken into account *(**Reality:** Your tax situation may be different due to changes in income, changes in politics, or changes in your allocations to certain brokerage accounts e.g. Roth, Traditional, Taxable)*
-* Social Security is not taken into account *(**Reality:** If you are young and live in the US, it's projected that you will still have 75% of the promised benefits of Social Security)*
+* Taxes are not taken into account *(Reality: Your tax situation may be different due to changes in income, changes in politics, or changes in your allocations to certain brokerage accounts e.g. Roth, Traditional, Taxable)*
+* Social Security is not taken into account *(Reality: If you are young and live in the US, it's projected that you will still have 75% of the promised benefits of Social Security)*
 
 ## Gallery
 
