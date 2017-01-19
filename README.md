@@ -34,10 +34,12 @@ So let's assume a max working time of 40 years, and a max savings rate of 60%, a
 
 * Elizabeth Warren recommends saving 20% of your income in her [50-30-20 rule](https://www.gobankingrates.com/personal-finance/senator-elizabeth-warren-50-30-20-budget-rule-save-pay-off-debt/) (from *All Your Worth: The Ultimate Lifetime Money Plan*)
 * William Bernstein recommends saving 15% of your income in his 16-page pamphlet *[If You Can](https://www.etf.com/docs/IfYouCan.pdf)*
-* Let's assume your time horizon will be between 35 and 40 years.
+* Let's assume their advice is to save for between 35 and 40 years.
 
 Let's see how this pans out:
 ![](https://raw.githubusercontent.com/zonination/retirement/master/altplots/budget-1.png)
+
+Looks like their advice is to save 15% to 20% is, for a lack of better phrasing, *right on the money*.
 
 ## Sources
 ## Further Reading
