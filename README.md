@@ -24,7 +24,7 @@ Retirement age, as a function of your desired **income** and savings rate:
 ![](https://raw.githubusercontent.com/zonination/retirement/master/income.png)
 
 Retirement age, as a function of your desired **budget** and savings rate:
-![](https://raw.githubusercontent.com/zonination/retirement/master/spend.png)
+![](https://raw.githubusercontent.com/zonination/retirement/master/budget.png)
 
 ## Exploration and Explanations
 ## Sources
