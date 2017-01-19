@@ -20,12 +20,24 @@ This visualization project operates on a set of assumptions that might differ fr
 
 ## Gallery
 
-Retirement age, as a function of your desired **income** and savings rate:
+Retirement age, as a function of your **desired income** and savings rate:
 ![](https://raw.githubusercontent.com/zonination/retirement/master/income.png)
 
-Retirement age, as a function of your desired **budget** and savings rate:
+Retirement age, as a function of your **desired budget** and savings rate:
 ![](https://raw.githubusercontent.com/zonination/retirement/master/budget.png)
 
 ## Exploration and Explanations
+
+If you were to ask me, "Zoni, what's more important: my desired income or desired budget?" I would reply with the fact that it's your **desired budget** Since a vast majority of us are not going to save 100% of our income, and we'll likely want to call it quits after working from the ages of 25 to 65.
+
+So let's assume a max working time of 40 years, and a max savings rate of 60%, and replot. In addition to this, let's also mark an area on our plot to define what some people recommend:
+
+* Elizabeth Warren recommends saving 20% of your income in her [50-30-20 rule](https://www.gobankingrates.com/personal-finance/senator-elizabeth-warren-50-30-20-budget-rule-save-pay-off-debt/) (from *All Your Worth: The Ultimate Lifetime Money Plan*)
+* William Bernstein recommends saving 15% of your income in his 16-page pamphlet *[If You Can](https://www.etf.com/docs/IfYouCan.pdf)*
+* Let's assume your time horizon will be between 35 and 40 years.
+
+Let's see how this pans out:
+![](https://raw.githubusercontent.com/zonination/retirement/master/altplots/budget-1.png)
+
 ## Sources
 ## Further Reading
