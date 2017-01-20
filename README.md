@@ -49,7 +49,7 @@ How does this look when we add the average US savings rate as a vertical line to
 
 As of this writing, the [US Personal Savings Rate](http://www.tradingeconomics.com/united-states/personal-savings) is currently 5.5%, however [including employer match](http://www.fool.com/investing/2016/10/03/heres-the-average-americans-savings-rate.aspx) the average thankfully gets a little closer to 8.5%. If these people were relying entirely on their personal savings to retire, that would give them a little less than half their income by the time they come of age. Luckily, for some of these folk, they will have Social Security and pensions, but those are fading as time goes by.
 
-**So here's the key takeaway:** If you are young, and if you can, try to save 15%-20% of your income, minimum (yes: count employer matching as savings). **Pay yourself first.** Pay down expensive debt. Buy and hold (a strategy outlined [here](https://github.com/zonination/investing/blob/master/README.md)) until retirement. Rebalance when needed. Worst case, you end up wealthy.
+**So here's the key takeaway:** If you are young, and if you can, try to save 15%-20% of your income, minimum (yes: count employer matching as savings). **Pay yourself first.** Buy and hold (a strategy outlined [here](https://github.com/zonination/investing/blob/master/README.md)) until retirement. Rebalance when needed. Worst case, you end up wealthy.
 
 ## Don't agree with these findings?
 
