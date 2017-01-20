@@ -1,4 +1,4 @@
-# How Early can you Retire?
+# All the Ways You Can Retire
 
 A.K.A. - The Shockingly Simple Math Behind Early Retirement 2: Electric Boogaloo
 
