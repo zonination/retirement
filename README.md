@@ -4,11 +4,11 @@ A.K.A. - The Shockingly Simple Math Behind Early Retirement 2: Electric Boogaloo
 
 ## About
 
-After reading Mr. Money Moustache's [The Shockingly Simple Math Behind Early Retirement](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/), I was inspired to map out various other scenarios. There are some valid criticisms of the piece that I won't dig into, but my main inspiration was a series of questions: "This page assumes I want to live off my pre-retirement budget; What if I wanted to hold off on retiring so I can be mega-comfortable? What if I retire *too early* by mistake or misfortune? Essentially: What would the scenarios look like if I compared the full set of savings rates against the full set of possible years saved?"
+After reading Mr. Money Mustache's [The Shockingly Simple Math Behind Early Retirement](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/), I was inspired to map out various other scenarios. There are some valid criticisms of the piece that I won't dig into, but my main inspiration was a series of questions: "This page assumes I want to live off my pre-retirement budget; What if I wanted to hold off on retiring so I can be mega-comfortable? What if I retire *too early* by mistake or misfortune? Essentially: What would the scenarios look like if I compared the full set of savings rates against the full set of possible years saved?"
 
 ## Assumptions
 
-This visualization project (as well as the Mr. Money Moustache article) operates on a set of assumptions that might differ from reality, but are there for the sake of simplicity:
+This visualization project (as well as the Mr. Money Mustache article) operates on a set of assumptions that might differ from reality, but are there for the sake of simplicity:
 
 * Your portfolio return is constant 5% *(Reality: It will change year-to-year depending on your mix of US stocks, bonds, international stocks, cash, and market fluctuations)*
 * The safe withdrawal rate is 4% *(Reality: This depends on your risk tolerance)*
